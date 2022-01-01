@@ -1,0 +1,13 @@
+[
+    {"name" : "car Driving Course",
+        "duration": "26 Week",
+        "cost": 200,
+        "img": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZHJpdmluZ3xlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {"name" : "Bike Driving Course",
+        "duration": "26 Week",
+        "cost": 100,
+        "img": "https://www.carmycar.com/wp-content/uploads/2021/04/Bike-Riding.jpg"
+    }
+
+]
